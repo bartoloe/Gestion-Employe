@@ -1,0 +1,25 @@
+Administrateur identifiants :
+
+Login :
+
+emmanuel
+
+Mot de passe:
+
+password
+
+
+(Seulement pour l'application web)
+Super Utilisateur identifiants :
+
+Login :
+
+root
+
+Mot de passe :
+
+password
+
+Lien application web :
+
+5.39.28.169/GestionEmploye
